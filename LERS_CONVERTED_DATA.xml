@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ASN xmlns="http://psdata.eae.alberta.ca/asn/1">
-  <Student Provider="KC" StudentID="222" ASN="ewf" FirstName="23" MiddleName="asdf" LastName="32" Birthdate="f4" Gender="34" FormerLastName="se" AKAGivenNames="" />
-  <Student Provider="KC" StudentID="222" ASN="as" FirstName="dsf" MiddleName="2" LastName="3" Birthdate="ew" Gender="we" FormerLastName="f" AKAGivenNames="f" />
-  <Student Provider="KC" StudentID="sdf" ASN="ew" FirstName="32" MiddleName="fga" LastName="223" Birthdate="23" Gender="fa" FormerLastName="4" AKAGivenNames="" />
-</ASN>
